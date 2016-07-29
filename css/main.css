@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+.fondo{
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	height: 600px;
+
+}
+
+.botona{
+	background-color: yellow;
+	border: none;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.logo{
+	width: 350px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+.menu{
+	margin-top: 50px;
+}
+
+.imagenes{
+	width: 70%;
+	height: 70%;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.texto{
+	margin-left: 50px;
+	margin-top: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+.footer{
+	background-color: grey;
+}
+
+.textfooter{
+	margin-left: 40px;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+hr{
+	margin-bottom: 20px;
+	width: 250px;
+	margin-left: 50px;
+	border:solid 1px;
+}
